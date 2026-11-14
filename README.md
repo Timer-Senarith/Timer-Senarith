@@ -1,4 +1,4 @@
-# Hi, I'm Timer (Jatupoj Senarith) 👋
+# Hi, I'm Timer 👋
 
 **Data & quantitative analyst in training.** I'm an engineer turned analyst who likes to test claims against data. I'm studying for an MPS in Analytics (Statistical Modeling) at **Northeastern University** in Boston. Before that I did an MSc in Robotics & Autonomous Systems at the **University of Bath** and a BEng in Mechanical Engineering at **Swansea University**.
 
