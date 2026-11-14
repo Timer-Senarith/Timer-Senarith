@@ -1,6 +1,7 @@
 # Hi, I'm Timer 👋
 
-**Data & quantitative analyst in training.** I'm an engineer turned analyst who likes to test claims against data. I'm studying for an MPS in Analytics (Statistical Modeling) at **Northeastern University** in Boston. Before that I did an MSc in Robotics & Autonomous Systems at the **University of Bath** and a BEng in Mechanical Engineering at **Swansea University**.
+**Data & quantitative analyst in training.** I'm an engineer turned analyst who likes to make actionable claims from data. I'm currently a grad student at **Northeastern University** in Boston, studying Data Analytics with a concentration in statistical modelling. 
+Before that I did an MSc in Robotics & Autonomous Systems at the **University of Bath** and a BEng in Mechanical Engineering at **Swansea University**.
 
 - 🔭 Building end-to-end analytics projects in **Finance, Business strategy and operations**: data pipelines, statistical models and dashboards
 - 📈 Preparing for **CFA Level I** (AUG. 2027)
