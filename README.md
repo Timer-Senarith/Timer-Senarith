@@ -72,7 +72,8 @@
 
 | Role | Organisation |
 |---|---|
-| Data Analyst / Business Development Intern | SolnanoMed |
+| Project Consultant | AB Dynamics & University of Bath |
+| Business Development Intern | SolnanoMed |
 | Project Engineering Intern | PTTOR |
 | Mechatronics Intern | AkzoNobel (Thailand) |
 | Mechanical Engineering Intern | Cheetah Engineering Systems |
